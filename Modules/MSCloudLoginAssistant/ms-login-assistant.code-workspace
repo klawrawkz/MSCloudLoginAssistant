@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\Program Files\\WindowsPowerShell"
+		}
+	],
+	"settings": {
+		"powershell.scriptAnalysis.enable": true,
+		"powershell.scriptAnalysis.settingsPath": ".vscode/ScriptAnalyzerSettings.psd1",
+		"powershell.codeFormatting.openBraceOnSameLine": false,
+		"powershell.codeFormatting.newLineAfterOpenBrace": false,
+		"powershell.codeFormatting.newLineAfterCloseBrace": true,
+		"powershell.codeFormatting.whitespaceBeforeOpenBrace": true,
+		"powershell.codeFormatting.whitespaceBeforeOpenParen": true,
+		"powershell.codeFormatting.whitespaceAroundOperator": true,
+		"powershell.codeFormatting.whitespaceAfterSeparator": true,
+		"powershell.codeFormatting.ignoreOneLineBlock": false,
+		"powershell.codeFormatting.preset": "Custom"
+	}
+}
